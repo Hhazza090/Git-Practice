@@ -1,0 +1,9 @@
+new-item text.txt # creates new witem on windows 
+touch test.txt # creates new item on linux
+ctrl-s saves
+crtl-z undo
+ctrl-c copy
+ctrl-v paste
+ctrl-a highlight everyone
+
+-- add -- commit -- pull -- push --
